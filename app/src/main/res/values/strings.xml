@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">searchApp</string>
+    <string name="search_hint">please Enter your Name</string>
+    <string name="search_title">search name</string>
+</resources>
